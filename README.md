@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johandry Cabrera</h1>
 <h3 align="center">A Full stack web developer</h3>
 
-- 🌱 I’m currently learning **React and React Native**
+- 🌱 I’m currently learning **NodeJs and ExpressJs**
 
 - 📫 How to reach me **johan.tenias@gmail.com**
 
